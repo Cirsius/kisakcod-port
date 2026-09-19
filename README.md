@@ -1,5 +1,7 @@
 KisakCOD (cod 4 modern warfare 2007) web port
 
+[discord](https://discord.slqnt.dev) for more updates and ports
+
 # overview  
 this port is new, expect bugs it should play decently though  
 this is an unofficial web port, i am not affiliated with infinity ward or activision in anyway (ill take an internship tho :eyes:)  
