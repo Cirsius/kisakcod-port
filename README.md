@@ -20,4 +20,6 @@ make a github issue and go indepth into the issue, ill try to fix bugs if any ar
 # will you release the source code?
 eventually, im really exhausted from this port and i might forget to but if i dont ill try to get it up soon.
 
+you can change the asmr.mp3 to wahtever you want it will just play a different audio in the credits just make sure its named asmr.mp3 
+
 meow
