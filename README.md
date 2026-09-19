@@ -1,5 +1,7 @@
 KisakCOD (cod 4 modern warfare 2007) web port
 
+UPLOAD STEAM FOLDER, THIS DOES NOT WORK WITH ANY ISO OR ANYTHING ELSE ONLY THE STEAM FILES
+
 [discord](https://discord.slqnt.dev) for more updates and ports
 
 # overview  
