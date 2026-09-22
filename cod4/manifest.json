@@ -1,0 +1,230 @@
+{
+  "required": [
+    "localization.txt",
+    "main/iw_00.iwd",
+    "main/iw_01.iwd",
+    "main/iw_02.iwd",
+    "main/iw_03.iwd",
+    "main/iw_04.iwd",
+    "main/iw_05.iwd",
+    "main/iw_06.iwd",
+    "main/iw_07.iwd",
+    "main/iw_08.iwd",
+    "main/iw_09.iwd",
+    "main/iw_10.iwd",
+    "main/iw_11.iwd",
+    "main/iw_12.iwd",
+    "main/iw_13.iwd",
+    "main/localized_english_iw00.iwd",
+    "main/localized_english_iw01.iwd",
+    "main/localized_english_iw02.iwd",
+    "main/localized_english_iw03.iwd",
+    "main/localized_english_iw04.iwd",
+    "main/localized_english_iw05.iwd",
+    "main/localized_english_iw06.iwd",
+    "zone/english/ac130.ff",
+    "zone/english/airlift.ff",
+    "zone/english/armada.ff",
+    "zone/english/code_post_gfx.ff",
+    "zone/english/code_post_gfx_mp.ff",
+    "zone/english/common.ff",
+    "zone/english/common_mp.ff",
+    "zone/english/jeepride.ff",
+    "zone/english/launchfacility_a.ff",
+    "zone/english/launchfacility_b.ff",
+    "zone/english/localized_code_post_gfx_mp.ff",
+    "zone/english/localized_common_mp.ff",
+    "zone/english/ui.ff",
+    "zone/english/ui_mp.ff"
+  ],
+  "audio": [],
+  "video": [
+    "main/video/Aftermath_fade.bik",
+    "main/video/Aftermath_load.bik",
+    "main/video/Airlift_load.bik",
+    "main/video/Ambush_load.bik",
+    "main/video/Armada_load.bik",
+    "main/video/Blackout_load.bik",
+    "main/video/IW_logo.bik",
+    "main/video/Killhouse_monitor1.bik",
+    "main/video/ac130_fade.bik",
+    "main/video/ac130_load.bik",
+    "main/video/airlift_fade.bik",
+    "main/video/airplane_load.bik",
+    "main/video/ambush_fade.bik",
+    "main/video/armada_fade.bik",
+    "main/video/asad_speech_180.bik",
+    "main/video/attract.bik",
+    "main/video/atvi.bik",
+    "main/video/black.bik",
+    "main/video/blackout_fade.bik",
+    "main/video/bog_a_fade.bik",
+    "main/video/bog_a_load.bik",
+    "main/video/bog_b_fade.bik",
+    "main/video/bog_b_load.bik",
+    "main/video/cargoship_fade.bik",
+    "main/video/cargoship_load.bik",
+    "main/video/cod_intro.bik",
+    "main/video/coup_fade.bik",
+    "main/video/coup_load.bik",
+    "main/video/credits_load.bik",
+    "main/video/default.bik",
+    "main/video/dog_vs_player_load.bik",
+    "main/video/hunted_fade.bik",
+    "main/video/hunted_load.bik",
+    "main/video/icbm_fade.bik",
+    "main/video/icbm_load.bik",
+    "main/video/jeepride_fade.bik",
+    "main/video/jeepride_load.bik",
+    "main/video/killhouse_fade.bik",
+    "main/video/killhouse_load.bik",
+    "main/video/launchfacility_a_fade.bik",
+    "main/video/launchfacility_a_load.bik",
+    "main/video/launchfacility_b_fade.bik",
+    "main/video/launchfacility_b_load.bik",
+    "main/video/legal.bik",
+    "main/video/scoutsniper_fade.bik",
+    "main/video/scoutsniper_load.bik",
+    "main/video/simplecredits_load.bik",
+    "main/video/sniperescape_load.bik",
+    "main/video/village_assault_fade.bik",
+    "main/video/village_assault_load.bik",
+    "main/video/village_defend_fade.bik",
+    "main/video/village_defend_load.bik",
+    "main/video/zakhaev_escape.bik"
+  ],
+  "maps": {
+    "aftermath": [
+      "zone/english/aftermath.ff"
+    ],
+    "airplane": [
+      "zone/english/airplane.ff"
+    ],
+    "ambush": [
+      "zone/english/ambush.ff"
+    ],
+    "blackout": [
+      "zone/english/blackout.ff"
+    ],
+    "bog_a": [
+      "zone/english/bog_a.ff"
+    ],
+    "bog_b": [
+      "zone/english/bog_b.ff"
+    ],
+    "cargoship": [
+      "zone/english/cargoship.ff"
+    ],
+    "coup": [
+      "zone/english/coup.ff"
+    ],
+    "hunted": [
+      "zone/english/hunted.ff"
+    ],
+    "icbm": [
+      "zone/english/icbm.ff"
+    ],
+    "killhouse": [
+      "zone/english/killhouse.ff"
+    ],
+    "mp_backlot": [
+      "zone/english/mp_backlot.ff",
+      "zone/english/mp_backlot_load.ff"
+    ],
+    "mp_bloc": [
+      "zone/english/mp_bloc.ff",
+      "zone/english/mp_bloc_load.ff"
+    ],
+    "mp_bog": [
+      "zone/english/mp_bog.ff",
+      "zone/english/mp_bog_load.ff"
+    ],
+    "mp_broadcast": [
+      "zone/english/mp_broadcast.ff",
+      "zone/english/mp_broadcast_load.ff"
+    ],
+    "mp_carentan": [
+      "zone/english/mp_carentan.ff",
+      "zone/english/mp_carentan_load.ff"
+    ],
+    "mp_cargoship": [
+      "zone/english/mp_cargoship.ff",
+      "zone/english/mp_cargoship_load.ff"
+    ],
+    "mp_citystreets": [
+      "zone/english/mp_citystreets.ff",
+      "zone/english/mp_citystreets_load.ff"
+    ],
+    "mp_convoy": [
+      "zone/english/mp_convoy.ff",
+      "zone/english/mp_convoy_load.ff"
+    ],
+    "mp_countdown": [
+      "zone/english/mp_countdown.ff",
+      "zone/english/mp_countdown_load.ff"
+    ],
+    "mp_crash": [
+      "zone/english/mp_crash.ff",
+      "zone/english/mp_crash_load.ff"
+    ],
+    "mp_crash_snow": [
+      "zone/english/mp_crash_snow.ff",
+      "zone/english/mp_crash_snow_load.ff"
+    ],
+    "mp_creek": [
+      "zone/english/mp_creek.ff",
+      "zone/english/mp_creek_load.ff"
+    ],
+    "mp_crossfire": [
+      "zone/english/mp_crossfire.ff",
+      "zone/english/mp_crossfire_load.ff"
+    ],
+    "mp_farm": [
+      "zone/english/mp_farm.ff",
+      "zone/english/mp_farm_load.ff"
+    ],
+    "mp_killhouse": [
+      "zone/english/mp_killhouse.ff",
+      "zone/english/mp_killhouse_load.ff"
+    ],
+    "mp_overgrown": [
+      "zone/english/mp_overgrown.ff",
+      "zone/english/mp_overgrown_load.ff"
+    ],
+    "mp_pipeline": [
+      "zone/english/mp_pipeline.ff",
+      "zone/english/mp_pipeline_load.ff"
+    ],
+    "mp_shipment": [
+      "zone/english/mp_shipment.ff",
+      "zone/english/mp_shipment_load.ff"
+    ],
+    "mp_showdown": [
+      "zone/english/mp_showdown.ff",
+      "zone/english/mp_showdown_load.ff"
+    ],
+    "mp_strike": [
+      "zone/english/mp_strike.ff",
+      "zone/english/mp_strike_load.ff"
+    ],
+    "mp_vacant": [
+      "zone/english/mp_vacant.ff",
+      "zone/english/mp_vacant_load.ff"
+    ],
+    "scoutsniper": [
+      "zone/english/scoutsniper.ff"
+    ],
+    "simplecredits": [
+      "zone/english/simplecredits.ff"
+    ],
+    "sniperescape": [
+      "zone/english/sniperescape.ff"
+    ],
+    "village_assault": [
+      "zone/english/village_assault.ff"
+    ],
+    "village_defend": [
+      "zone/english/village_defend.ff"
+    ]
+  }
+}
